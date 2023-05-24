@@ -1,4 +1,4 @@
-#Image Classification Model on Tiny ImageNet Dataset
+<h1> Image Classification Model on Tiny ImageNet Dataset <h1>
 
 This repository contains code for training and evaluating an efficient image classification model on the Tiny ImageNet dataset using TensorFlow, PyTorch and Keras.
 I have manily focused on DataLoaders (Data Wrangling and exploration of Multi-Layer-CNN model.
